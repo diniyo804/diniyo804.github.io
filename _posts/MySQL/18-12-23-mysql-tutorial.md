@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL - MySql개요와 데이터 타입
+title: MySQL - MySql개념과 데이터 타입
 category: MySql
 tags: [MySql, 데이터베이스]
 comments: true
