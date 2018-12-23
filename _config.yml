@@ -42,7 +42,7 @@ nav:
     - '/'
     # - { Categories All: '/blog/categories/' }
     - { TIL (Today I Learned): '/blog/categories/til' }
-    - { network : '/blog/categories/#network' }
+    - { Http & Network : '/blog/categories/#network' }
     # - { Django: '/blog/categories/#django' }
     - { test2 : '/blog/categories/#test2' }
     # - { javascript: '/blog/categories/#javascript' }
