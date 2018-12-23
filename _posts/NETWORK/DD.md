@@ -1,6 +1,6 @@
 ---
 layout: post
-category: HTTP & NetWork
+category: network
 title: network test
 tags: [network, http]
 comments: true
