@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 웹과 네트워크의 기본
+title: Http & Network - 웹과 네트워크의 기본
 category: Http & Network
 tags: [http, network]
 comments: true
