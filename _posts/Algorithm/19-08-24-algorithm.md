@@ -86,11 +86,10 @@ comments: true
         return getGCD(small,large%small);
     }
 
-
-
 ```
 
-##테스트 코드
+  
+## 테스트 코드
 ```java
     @org.junit.Test
     public void solution() {
@@ -99,7 +98,7 @@ comments: true
     }
 ```
 
-###배운점
+### 배운점
 유클리드 호제법을 이용한 최대공약수 알고리즘이 기존에 존재한다. GCD(greatest Common divisor) 알고리즘이라고도 부른다.  
 유클리드 호제법이란, 정수 n과 m (전제:n>m)을 비교해서 n을 m으로 나눈 나머지 r이 0보다 크면 다시 m을 r로 나누어 나머지를 구한다.   
 이 방법을 반복해 나머지(r)이 0이 될 때의 m이 최대 공약수가 된다.
@@ -117,6 +116,6 @@ comments: true
 
 이런 방법을 알아둔다면 나중에 비슷한 문제를 풀 때 큰 도움이 될 것 같다.   
 오늘같은 풀이가 또다시 반복되지 않도록 기억해두자! 
-
+  
 문제출처  
 > [프로그래머스](https://programmers.co.kr/skill_checks)
