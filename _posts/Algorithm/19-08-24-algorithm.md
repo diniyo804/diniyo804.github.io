@@ -76,7 +76,7 @@ comments: true
         int small=(n < m) ?n :m;
   
         int max = getGCD(large,small);//최대공약수 => 나머지가 0이 될 때까지 나눈다.
-        int min = n*m/max; //최대공배수
+        int min = n*m/max; //최소공배수
   
         return new int[]{max, min};
     }
